@@ -1,0 +1,3 @@
+patch:
+  __include: "hot_keys:/patch"
+  "style/color_scheme": "cool_breeze"
