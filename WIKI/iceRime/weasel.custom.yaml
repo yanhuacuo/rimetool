@@ -1,9 +1,9 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.15.0.0
+  distribution_version: 0.16.0
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Tue Apr  2 11:27:28 2024"
-  rime_version: 1.11.0
+  modified_time: "Mon May 27 08:54:27 2024"
+  rime_version: 1.11.2
 patch:
   __include: "hot_keys:/patch"
-  "style/color_scheme": "amber-2"
+  "style/color_scheme": google_plus
