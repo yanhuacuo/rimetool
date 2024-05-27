@@ -6,5 +6,4 @@ customization:
   rime_version: 1.11.0
 patch:
   __include: "hot_keys:/patch"
-  __include: "stylelist:/patch"
-  "style/color_scheme": "amber-2"
+  "style/color_scheme": "aqua"
