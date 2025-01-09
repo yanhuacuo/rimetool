@@ -18,6 +18,10 @@ https://github.com/yanhuacuo/rimetool/wiki
 - [中州韵助手：一键变换排版风格](https://www.bilibili.com/video/BV1gS421d79f/?spm_id_from=333.999.0.0)
 - [中州韵助手：注解界符](https://www.bilibili.com/video/BV192rXY2EcC/)
 
+# 集成案例
+- [小狼毫98五笔](https://www.bilibili.com/video/BV1sErzYbE6h/?share_source=copy_web&vd_source=37920c8c7678220e3b54da59922b8164)
+
+
 # 功能一览
 
 - ![pic](https://raw.githubusercontent.com/yanhuacuo/rimetool/refs/heads/main/PIC/rimetool_pic-1.png)
