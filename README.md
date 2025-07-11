@@ -11,7 +11,7 @@ https://github.com/yanhuacuo/rimetool/wiki
 实现 `RIME` 系列电脑端输入法的完全可视化，从输入法主题外观、到输入法行为逻辑、以及词库码表的全面控制。
 
 # 视频演示
-
+- [中州韵助手：自制yaml解析内核，音形无拘](https://www.bilibili.com/video/BV16zuMzcEey)
 - [中州韵助手：可视化词库管理](https://www.bilibili.com/video/BV1YXCGYME77/?spm_id_from=333.999.0.0)
 - [中州韵助手：词条调序演示](https://www.bilibili.com/video/BV139CGYqE5d/?spm_id_from=333.999.0.0)
 - [中州韵助手：开关控制演示](https://www.bilibili.com/video/BV1ci421v7R4/?spm_id_from=333.999.0.0)
